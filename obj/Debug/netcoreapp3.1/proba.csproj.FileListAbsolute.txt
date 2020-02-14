@@ -1,0 +1,11 @@
+D:\C#\proba\bin\Debug\netcoreapp3.1\proba.exe
+D:\C#\proba\bin\Debug\netcoreapp3.1\proba.deps.json
+D:\C#\proba\bin\Debug\netcoreapp3.1\proba.runtimeconfig.json
+D:\C#\proba\bin\Debug\netcoreapp3.1\proba.runtimeconfig.dev.json
+D:\C#\proba\bin\Debug\netcoreapp3.1\proba.dll
+D:\C#\proba\bin\Debug\netcoreapp3.1\proba.pdb
+D:\C#\proba\obj\Debug\netcoreapp3.1\proba.csprojAssemblyReference.cache
+D:\C#\proba\obj\Debug\netcoreapp3.1\proba.AssemblyInfoInputs.cache
+D:\C#\proba\obj\Debug\netcoreapp3.1\proba.AssemblyInfo.cs
+D:\C#\proba\obj\Debug\netcoreapp3.1\proba.dll
+D:\C#\proba\obj\Debug\netcoreapp3.1\proba.pdb
