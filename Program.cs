@@ -2,7 +2,8 @@
 namespace proba {
     public class Program { 
         static public int Example(int a, int b) { 
-            int c = a + b;
+            int c;
+            c = a + b;
             Console.WriteLine(a.ToString() + " + " + b.ToString() + " = " + c.ToString()); 
             return c; } 
         static void Main(string[] args) { 
