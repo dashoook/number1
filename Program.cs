@@ -13,4 +13,5 @@ namespace proba {
             string S2 = Console.ReadLine();
             int b = int.Parse(S2); 
             Example(a, b);
+            int d;
             Console.ReadLine(); } } }
