@@ -3,7 +3,7 @@ namespace proba {
     public class Program { 
         static public int Example(int a, int b) { 
             int c = a + b;
-            Console.WriteLine("Result: " + a.ToString() + " + " + b.ToString() + " = " + c.ToString()); 
+            Console.WriteLine("Result:" + a.ToString() + " + " + b.ToString() + " = " + c.ToString()); 
             return c; } 
         static void Main(string[] args) { 
             Console.WriteLine("Введiть перше число"); 
